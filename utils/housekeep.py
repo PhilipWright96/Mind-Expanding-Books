@@ -4,7 +4,7 @@ import simplejson
 # starting with * is a book title if file type is old
 # starting with | (and not with | Name or |--) is a book if the file type is new
 
-# ARGUMENT HANDLING TEST COMMENT CHANGE
+# ARGUMENT HANDLING
 try:
     import argparse
 
